@@ -1,2 +1,3 @@
 # EscapeFromTarkov
-Escape From Tarkov KoreaEFT
+Escape From Tarkov Korea (EFT_Kor)
+
